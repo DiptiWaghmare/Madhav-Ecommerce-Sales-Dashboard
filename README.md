@@ -90,8 +90,7 @@ This dashboard helps business stakeholders:
 ## 📁 Project Assets
 
 * `📊 madhav_sales_dashboard.pbix` – Power BI file
-* `🖼️ ![Dashboard](https://github.com/user-attachments/assets/c1e8e427-71ad-44d9-8ba2-4134855a703d)` – Screenshot of final dashboard
-
+* `🖼️ dashboard_preview.png – Screenshot of final dashboard
 
 
 
