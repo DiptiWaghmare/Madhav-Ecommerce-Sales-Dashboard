@@ -4,74 +4,93 @@ This Power BI dashboard provides an insightful overview of sales performance for
 ![Dashboard](https://github.com/user-attachments/assets/6b31d267-81a9-464d-9b4d-641f42e92f87)
 
 
-## 📊 Dashboard Highlights
+## 🚀 Project Overview
 
-## **Key KPIs**
+This dashboard helps business stakeholders:
 
-* **Total Sales Amount:** ₹438K
-* **Total Profit:** ₹37K
-* **Total Quantity Sold:** 5615 units
-* **Average Order Value (AOV):** ₹121.01K
+* Track **key performance indicators** (KPIs)
+* Understand **customer and product behavior**
+* Monitor **monthly profit trends**
+* Evaluate **geographical and categorical sales**
+* Identify opportunities to **boost revenue & efficiency**
 
-## **Geographical Insights**
+---
 
-* **Sum of Amount by State:**
-  Maharashtra is the top-performing state, followed by Madhya Pradesh and Uttar Pradesh.
+## 📈 Key Metrics Visualized
 
-### **Product Insights**
+| Metric                     | Value      |
+| -------------------------- | ---------- |
+| 💰 **Total Sales**         | ₹438K      |
+| 🧾 **Total Profit**        | ₹37K       |
+| 📦 **Quantity Sold**       | 5615 units |
+| 📊 **Average Order Value** | ₹121.01K   |
 
-* **Top Performing Sub-Categories:**
+---
 
-  * Saree
-  * Printers
-  * Bookcases
-* **Quantity by Category:**
+## 📍 Insights Delivered
 
-  * Clothing (63%)
-  * Electronics (21%)
-  * Furniture (17%)
+### 🌐 **By State**
 
-### 💸 **Payment Trends**
+* Highest revenue from **Maharashtra**, followed by **Madhya Pradesh** & **UP**
 
-* Most used payment modes:
+### 🛍️ **By Sub-Category**
 
-  * Cash on Delivery (44%)
-  * UPI (21%)
-  * Debit & Credit Cards (25% combined)
-  * EMI (10%)
+* **Top Performers**: Saree, Printers, Bookcases
+* **Low Performers**: Accessories, Tables
 
-### 📅 **Monthly Profit Trends**
+### 📦 **By Category (Quantity-wise)**
 
-* Peak profits in **January** and **December**
-* Negative profit in **May**, **June**, **July**, and **September**
+* 👗 **Clothing**: 63%
+* 📱 **Electronics**: 21%
+* 🛋️ **Furniture**: 17%
 
-### 👥 **Top Customers**
+### 💳 **By Payment Mode**
 
-* Harivansh and Madhav contribute the most to revenue.
+* **Most Preferred**: Cash on Delivery (44%)
+* UPI: 21%, Cards: 25%, EMI: 10%
 
+### 📆 **Monthly Profit Trends**
 
-## 🧮 Filters and Slicers
+* Peak months: **January & December**
+* Loss-making months: **May, June, July, September**
 
-* **Quarter Filter:** Q1 to Q4 view toggle
-* **State Filter:** Analyze sales metrics by individual states
+### 🧑‍🤝‍🧑 **Top Customers**
 
+* Highest spenders: **Harivansh** and **Madhav**
 
-## 📂 Tools Used
+---
+
+## 🧰 Tools & Techniques Used
 
 * **Power BI Desktop**
-* **DAX for Measures**
-* **Data Model with Relationships**
+* **DAX** for calculated measures
+* **Data Modeling** with relationships
+* Custom **slicers** for dynamic filtering
 
+---
+
+## 🔎 Filters & Interactivity
+
+* 📅 **Quarter Selector**: Q1 – Q4
+* 🗺️ **State Selector**: Analyze metrics region-wise
+
+---
 
 ## 📌 Use Cases
 
-* Monitor and improve sales performance
-* Identify top-selling products and customer segments
-* Analyze profit/loss trends by month
-* Optimize marketing and logistics by region
+✅ Strategic Sales Planning
+✅ Product Performance Tracking
+✅ Customer Segmentation
+✅ Regional Sales Insights
+✅ Marketing Optimization
+
+---
+
+## 📁 Project Assets
+
+* `📊 madhav_sales_dashboard.pbix` – Power BI file
+* `🖼️ dashboard_preview.png` – Screenshot of final dashboard
 
 
-## 📁 Files
 
-* Power BI File: `madhav_sales_dashboard.pbix`
-* Image Preview: `dashboard_preview.png` *(included in repo)*
+
