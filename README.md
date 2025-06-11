@@ -1,7 +1,8 @@
 # Madhav-Ecommerce-Sales-Dashboard
 This Power BI dashboard provides an insightful overview of sales performance for the Madhav e-commerce platform. It enables easy monitoring of key metrics such as revenue, profit, quantity sold, and customer behavior, helping stakeholders make informed business decisions.
 
-![Dashboard](https://github.com/user-attachments/assets/6b31d267-81a9-464d-9b4d-641f42e92f87)
+![Dashboard](https://github.com/user-attachments/assets/c1e8e427-71ad-44d9-8ba2-4134855a703d)
+
 
 
 ## 🚀 Project Overview
@@ -51,7 +52,7 @@ This dashboard helps business stakeholders:
 
 ### 📆 **Monthly Profit Trends**
 
-* Peak months: **January & December**
+* Peak months: **January & November**
 * Loss-making months: **May, June, July, September**
 
 ### 🧑‍🤝‍🧑 **Top Customers**
@@ -89,7 +90,7 @@ This dashboard helps business stakeholders:
 ## 📁 Project Assets
 
 * `📊 madhav_sales_dashboard.pbix` – Power BI file
-* `🖼️ dashboard_preview.png` – Screenshot of final dashboard
+* `🖼️ ![Dashboard](https://github.com/user-attachments/assets/c1e8e427-71ad-44d9-8ba2-4134855a703d)` – Screenshot of final dashboard
 
 
 
