@@ -6,19 +6,19 @@ This Power BI dashboard provides an insightful overview of sales performance for
 
 ## 📊 Dashboard Highlights
 
-### 🔢 **Key KPIs**
+## **Key KPIs**
 
 * **Total Sales Amount:** ₹438K
 * **Total Profit:** ₹37K
 * **Total Quantity Sold:** 5615 units
 * **Average Order Value (AOV):** ₹121.01K
 
-### 🗺️ **Geographical Insights**
+## **Geographical Insights**
 
 * **Sum of Amount by State:**
   Maharashtra is the top-performing state, followed by Madhya Pradesh and Uttar Pradesh.
 
-### 🧾 **Product Insights**
+### **Product Insights**
 
 * **Top Performing Sub-Categories:**
 
